@@ -6,6 +6,7 @@ This is a personal portfolio website built with React and Bootstrap, featuring a
 * *Last Modification Date*: 20 NOV 2025
 * *Lab URL*: 
 * *GitLab Repository*: https://git.cs.dal.ca/mohrez/lab-5-3172 
+Netlify Link: https://lab53172.netlify.app/
 
 
 ## Authors
